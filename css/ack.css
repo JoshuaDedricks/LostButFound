@@ -1,0 +1,40 @@
+body
+{	
+	overflow : hidden;
+}
+
+.ack-contain
+{
+	background-image : url(../images/items.png);
+	background-position : center;
+	background-repeat: no-repeat;
+	height: 17cm;
+	width : 105%;
+	margin-left: -4%;
+	margin-right: -2%;
+	margin-top: 2cm;
+}
+
+.ack
+{
+	background-color : #333;
+	width : 35.3cm;
+	height : 10cm;
+	float :right;
+	border-radius : 0px;
+	margin-top : 2cm;
+	margin-right : 1cm;
+	padding : 10px;
+	color : white;
+	font-family : small arial,sans-serif;
+}
+
+#thanks
+{
+	float : right;
+}
+
+#finger
+{
+	color : #F1F1F1;
+}
